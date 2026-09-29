@@ -1,0 +1,9 @@
+{
+  "name": "MOTION AI",
+  "description": "An AI-powered content studio designed for affiliates and creators to generate high-quality product campaigns, UGC videos, and marketing visuals with ease.",
+  "prompt": "",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
